@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 just yet another guy who write code as you can find everywhere.<br>
 This guy love strange ideas as if he is always drunk.<br>
+But no, drunk coding is not good.
