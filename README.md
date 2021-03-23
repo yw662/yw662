@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-just yet another guy who write code whom you can find every here and there.<br>
+just yet another guy who write code as you can find everywhere.<br>
 This guy love strange ideas as if he is always drunk.<br>
