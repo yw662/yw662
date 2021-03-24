@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-just yet another guy who write code as you can find everywhere.<br>
+Just yet another guy who write code as you can find everywhere.<br>
 This guy love strange ideas as if he is always drunk.<br>
 But no, drunk coding is not good.
+
+- Don't get me wrong: Webpack is powerful and I like the idea in general. However:
+  - Its approach is too invasive: You cannot easily change your build tool, or decide not to use one, once you choose it.
+  - Its configuration is not declarative as it promises.
+  - Its assumption is way too much.
+  - it is doing too much: it should have been the Makefile, not the compiler.
