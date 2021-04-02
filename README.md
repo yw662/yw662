@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Just yet another guy who write code as you can find everywhere.<br>
 This guy love strange ideas as if he is always drunk.<br>
@@ -24,3 +23,4 @@ But no, drunk coding is not good.
   - Its configuration is not declarative as it promises.
   - Its assumption is way too much.
   - it is doing too much: it should have been the Makefile, not the compiler.
+-->
